@@ -13,6 +13,9 @@ This is RetroPads public repository
 **Assembly** 
 <img width="1920" height="722" alt="RetroPad  Assembly view" src="https://github.com/user-attachments/assets/3953687c-cc7e-46b6-836f-8fe4e234fe86" />
 
+**Inspirations**
+I really wanted to bring vintage and retro tech into the present. This Macropad (RetroPad) allows me to do this, while still looking clean and minimalistic to todays standards. 
+
 **Challenges**
 This was my first time trying to make schematics and pcb's. Same goes for the firmware. I think I got there in the end :)
 
